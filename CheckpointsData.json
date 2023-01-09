@@ -3,8 +3,8 @@
 		"Enabled":false,
 		"Version":"?",
 		"SourceURL":"https://huggingface.co/Linaqruf/anything-v3-better-vae",
-		"CheckPoint Download URL":"https://huggingface.co/Linaqruf/anything-v3-better-vae/resolve/main/any-v3-fp32-better-vae.ckpt",
-		"Last Updated":"09/01/2023",
+		"CheckPointDownloadURL":"https://huggingface.co/Linaqruf/anything-v3-better-vae/resolve/main/any-v3-fp32-better-vae.ckpt",
+		"LastUpdated":"09/01/2023",
 		"Comment":""
 	},
 	"Anything-v3.0-Full":{
