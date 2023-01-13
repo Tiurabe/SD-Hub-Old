@@ -19,7 +19,7 @@
 		"LastUpdated":"09/01/2023",
 		"Comment":"Full old Anything v3 (not pruned). Use it for merging.",
 		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":""
+		"CustomVAEDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
 	},
 	"Anything-v3.0-Pruned-fp32":{
 		"Enabled":false,
@@ -30,7 +30,7 @@
 		"LastUpdated":"09/01/2023",
 		"Comment":"Pruned old Anything v3",
 		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":""
+		"CustomVAEDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
 	},
 	"UberRealisticPornMerge-Unpruned":{
 		"Enabled":false,
