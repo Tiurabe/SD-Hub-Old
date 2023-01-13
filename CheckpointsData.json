@@ -5,7 +5,9 @@
 		"SourceURL":"https://huggingface.co/Linaqruf/anything-v3-better-vae",
 		"CheckPointDownloadURL":"https://huggingface.co/Linaqruf/anything-v3-better-vae/resolve/main/any-v3-fp32-better-vae.ckpt",
 		"LastUpdated":"09/01/2023",
-		"Comment":"The newest Anything v3, generates anime/hentai."
+		"Comment":"The newest Anything v3, generates anime/hentai.",
+		"CustomVAE":"none",
+		"SpecificVAEDownloadURL":""
 	},
 	"Anything-v3.0-Full":{
 		"Enabled":false,
@@ -13,7 +15,9 @@
 		"SourceURL":"https://huggingface.co/Linaqruf/anything-v3.0",
 		"CheckPointDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.ckpt",
 		"LastUpdated":"09/01/2023",
-		"Comment":"Full old Anything v3 (not pruned). Use it for merging."
+		"Comment":"Full old Anything v3 (not pruned). Use it for merging.",
+		"CustomVAE":"custom",
+		"SpecificVAEDownloadURL":""
 	},
 	"Anything-v3.0-Pruned-fp32":{
 		"Enabled":false,
@@ -21,23 +25,29 @@
 		"SourceURL":"https://huggingface.co/Linaqruf/anything-v3.0",
 		"CheckPointDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0-pruned-fp32.ckpt",
 		"LastUpdated":"09/01/2023",
-		"Comment":"Pruned old Anything v3"
+		"Comment":"Pruned old Anything v3",
+		"CustomVAE":"custom",
+		"SpecificVAEDownloadURL":""
 	},
 	"UberRealisticPornMerge-Unpruned":{
 		"Enabled":false,
 		"Version":"?",
 		"SourceURL":"https://civitai.com/models/2661/uber-realistic-porn-merge-urpm",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4212?type=Model&format=PickleTensor",
-		"LastUpdated":"09/01/2023",
-		"Comment":"Generates realistic porn (good). Use this one for merging."
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4971?type=Model&format=PickleTensor",
+		"LastUpdated":"13/01/2023",
+		"Comment":"Generates realistic porn (good). Use this one for merging.",
+		"CustomVAE":"none",
+		"SpecificVAEDownloadURL":""
 	},
 	"UberRealisticPornMerge-Pruned":{
 		"Enabled":false,
 		"Version":"?",
 		"SourceURL":"https://civitai.com/models/2661/uber-realistic-porn-merge-urpm",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4212?type=Pruned%20Model&format=PickleTensor",
-		"LastUpdated":"09/01/2023",
-		"Comment":"Does the same as the other one, but much smaller. Use if you are not merging models."
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4971?type=Pruned%20Model&format=PickleTensor",
+		"LastUpdated":"13/01/2023",
+		"Comment":"Does the same as the other one, but much smaller. Use if you are not merging models.",
+		"CustomVAE":"none",
+		"SpecificVAEDownloadURL":""
 	},
 	"KriboMix":{
 		"Enabled":false,
@@ -45,7 +55,9 @@
 		"SourceURL":"https://civitai.com/models/1225/kribomix-nstal",
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/1296",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For hentai."
+		"Comment":"For hentai.",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
 	},
 	"Protogen-v2.2":{
 		"Enabled":false,
@@ -53,7 +65,9 @@
 		"SourceURL":"https://civitai.com/models/3627/protogen-v22-anime-official-release",
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4007?type=Model&format=PickleTensor",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For anime/hentai"
+		"Comment":"For anime/hentai",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
 	},
 	"Protogen-x3.4":{
 		"Enabled":false,
@@ -61,7 +75,9 @@
 		"SourceURL":"https://civitai.com/models/3666/protogen-x34-photorealism-official-release",
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4048?type=Model&format=PickleTensor",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For Photorealistic arts (nsfw too)"
+		"Comment":"For Photorealistic arts (nsfw too)",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
 	},
 	"Protogen-x5.8":{
 		"Enabled":false,
@@ -69,7 +85,9 @@
 		"SourceURL":"https://civitai.com/models/3867/protogen-x58-rebuilt-scifianime-official-release",
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4298?type=Model&format=PickleTensor",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For Scifi+Anime arts (nsfw too, i think)"
+		"Comment":"For Scifi+Anime arts (nsfw too, i think)",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
 	},
 	"HassanBlend":{
 		"Enabled":false,
@@ -77,7 +95,9 @@
 		"SourceURL":"https://civitai.com/models/1173/hassanblend-15-and-previous-versions",
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4635?type=Model&format=PickleTensor",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For Photorealistic Porn. (good)"
+		"Comment":"For Photorealistic Porn. (good)",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
 	},
 	"NutmegMix":{
 		"Enabled":false,
@@ -85,7 +105,9 @@
 		"SourceURL":"https://huggingface.co/NUROISEA/anything-mix/tree/main",
 		"CheckPointDownloadURL":"https://huggingface.co/NUROISEA/anything-mix/resolve/main/nutmeg-mix.ckpt",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For hentai. (good)"
+		"Comment":"For hentai. (good)",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
 	},
 	"HentaiDiffusion-19":{
 		"Enabled":false,
@@ -93,6 +115,18 @@
 		"SourceURL":"https://huggingface.co/Deltaadams/HentaiDiffusion",
 		"CheckPointDownloadURL":"https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-19.ckpt",
 		"LastUpdated":"09/01/2023",
-		"Comment":"For hentai. Not quite good, it seems."
+		"Comment":"For hentai. Not quite good, it seems.",
+		"CustomVAE":"default",
+		"SpecificVAEDownloadURL":""
+	},
+	"grapefruit":{
+		"Enabled":false,
+		"Version":"?",
+		"SourceURL":"https://civitai.com/models/2583/grapefruit-hentai-model",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5013?type=Model&format=SafeTensor",
+		"LastUpdated":"13/01/2023",
+		"Comment":"For hentai.",
+		"CustomVAE":"custom",
+		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/5013?type=VAE&format=Other"
 	}
 }
