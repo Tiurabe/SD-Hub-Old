@@ -19,7 +19,7 @@
 		"LastUpdated":"09/01/2023",
 		"Comment":"Full old Anything v3 (not pruned). Use it for merging.",
 		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
+		"CustomVAEDownloadURL":""
 	},
 	"Anything-v3.0-Pruned-fp32":{
 		"Enabled":false,
@@ -30,7 +30,7 @@
 		"LastUpdated":"09/01/2023",
 		"Comment":"Pruned old Anything v3",
 		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.vae.pt"
+		"CustomVAEDownloadURL":""
 	},
 	"UberRealisticPornMerge-Unpruned":{
 		"Enabled":false,
@@ -141,5 +141,16 @@
 		"Comment":"For hentai.",
 		"CustomVAE":"custom",
 		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/5013?type=VAE&format=Other"
+	},
+	"Furrystaber":{
+		"Enabled":false,
+		"Version":"?",
+		"SourceURL":"https://civitai.com/models/3664/furrystaber",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5027?type=Model&format=PickleTensor",
+		"Format":"ckpt",
+		"LastUpdated":"16/01/2023",
+		"Comment":"For hentai.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
