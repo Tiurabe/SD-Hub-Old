@@ -98,6 +98,17 @@
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
+	"Protogen-Infinity":{
+		"Enabled":false,
+		"Version":"?",
+		"SourceURL":"https://civitai.com/models/3867/protogen-x58-rebuilt-scifianime-official-release",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4298?type=Model&format=PickleTensor",
+		"Format":"safetensors",
+		"LastUpdated":"17/01/2023",
+		"Comment":"For Photorealistic arts (Its protogen x8.6)",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
+	},
 	"HassanBlend":{
 		"Enabled":false,
 		"Version":"?",
