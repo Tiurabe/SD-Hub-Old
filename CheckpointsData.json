@@ -163,5 +163,16 @@
 		"Comment":"For hentai.",
 		"CustomVAE":"custom",
 		"CustomVAEDownloadURL":"https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt"
+	},
+	"Deliberate":{
+		"Enabled":false,
+		"Version":"?",
+		"SourceURL":"https://civitai.com/models/4823/deliberate",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5616?type=Model&format=PickleTensor",
+		"Format":"ckpt",
+		"LastUpdated":"21/01/2023",
+		"Comment":"For photorealistic images.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
