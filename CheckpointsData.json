@@ -146,9 +146,9 @@
 		"Enabled":false,
 		"Version":"?",
 		"SourceURL":"https://civitai.com/models/2583/grapefruit-hentai-model",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5013?type=Model&format=SafeTensor",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5528?type=Model&format=SafeTensor",
 		"Format":"safetensors",
-		"LastUpdated":"13/01/2023",
+		"LastUpdated":"20/01/2023",
 		"Comment":"For hentai.",
 		"CustomVAE":"custom",
 		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/5013?type=VAE&format=Other"
