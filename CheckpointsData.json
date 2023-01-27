@@ -153,16 +153,16 @@
 		"CustomVAE":"custom",
 		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/5528?type=VAE&format=Other"
 	},
-	"YiffyMix":{
+	"Furrystaber":{
 		"Enabled":false,
-		"Version":"?",
-		"SourceURL":"https://civitai.com/models/3671/yiffymix",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4053?type=Model&format=SafeTensor",
+		"Version":"4.0",
+		"SourceURL":"https://civitai.com/models/3664/furrystaber",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5594?type=Model&format=SafeTensor",
 		"Format":"safetensors",
-		"LastUpdated":"16/01/2023",
-		"Comment":"For hentai.",
+		"LastUpdated":"27/01/2023",
+		"Comment":"For hentai (?).",
 		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":"https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt"
+		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/75?type=VAE&format=Other"
 	},
 	"Deliberate":{
 		"Enabled":false,
