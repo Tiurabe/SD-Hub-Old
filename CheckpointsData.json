@@ -161,7 +161,7 @@
 		"Format":"ckpt",
 		"LastUpdated":"21/01/2023",
 		"Comment":"For photorealistic images.",
-		"CustomVAE":"default",
+		"CustomVAE":"none",
 		"CustomVAEDownloadURL":""
 	}
 }
