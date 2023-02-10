@@ -3,23 +3,12 @@
 		"Enabled":false,
 		"Version":"4.5",
 		"SourceURL":"https://huggingface.co/andite/anything-v4.0",
-		"CheckPointDownloadURL":"https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned-fp32.ckpt",
-		"Format":"ckpt",
+		"CheckPointDownloadURL":"https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned.safetensors",
+		"Format":"safetensors",
 		"LastUpdated":"10/02/2023",
 		"Comment":"Unofficial Anything v3 merge (unofficial but seems to be approved by the original creator). fp32.",
-		"CustomVAE":"none",
-		"CustomVAEDownloadURL":""
-	},
-	"Anything-v3.0-Full":{
-		"Enabled":false,
-		"Version":"?",
-		"SourceURL":"https://huggingface.co/Linaqruf/anything-v3.0",
-		"CheckPointDownloadURL":"https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/Anything-V3.0.ckpt",
-		"Format":"ckpt",
-		"LastUpdated":"09/01/2023",
-		"Comment":"Full old Anything v3 (not pruned). Use it for merging.",
 		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":""
+		"CustomVAEDownloadURL":"https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.0.vae.pt"
 	},
 	"Anything-v3.0-Pruned-fp32":{
 		"Enabled":false,
@@ -29,7 +18,7 @@
 		"Format":"ckpt",
 		"LastUpdated":"09/01/2023",
 		"Comment":"Pruned old Anything v3",
-		"CustomVAE":"custom",
+		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
 	"UberRealisticPornMerge-Unpruned":{
