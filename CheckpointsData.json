@@ -1,12 +1,12 @@
 {
-	"Anything-v3-Better-VAE":{
+	"Anything-v4.5":{
 		"Enabled":false,
-		"Version":"?",
-		"SourceURL":"https://huggingface.co/Linaqruf/anything-v3-better-vae",
-		"CheckPointDownloadURL":"https://huggingface.co/Linaqruf/anything-v3-better-vae/resolve/main/any-v3-fp32-better-vae.ckpt",
+		"Version":"4.5",
+		"SourceURL":"https://huggingface.co/andite/anything-v4.0",
+		"CheckPointDownloadURL":"https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned-fp32.ckpt",
 		"Format":"ckpt",
-		"LastUpdated":"09/01/2023",
-		"Comment":"The newest Anything v3, generates anime/hentai.",
+		"LastUpdated":"10/02/2023",
+		"Comment":"Unofficial Anything v3 merge (unofficial but seems to be approved by the original creator). fp32.",
 		"CustomVAE":"none",
 		"CustomVAEDownloadURL":""
 	},
@@ -131,11 +131,11 @@
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
-	"HentaiDiffusion-19":{
+	"HentaiDiffusion-20":{
 		"Enabled":false,
 		"Version":"?",
-		"SourceURL":"https://huggingface.co/Deltaadams/HentaiDiffusion",
-		"CheckPointDownloadURL":"https://huggingface.co/Deltaadams/HentaiDiffusion/resolve/main/HD-19.ckpt",
+		"SourceURL":"https://huggingface.co/Deltaadams/HD-20",
+		"CheckPointDownloadURL":"https://huggingface.co/Deltaadams/HD-20/resolve/main/HD-20.ckpt",
 		"Format":"ckpt",
 		"LastUpdated":"09/01/2023",
 		"Comment":"For hentai. Not quite good, it seems.",
@@ -144,11 +144,11 @@
 	},
 	"grapefruit":{
 		"Enabled":false,
-		"Version":"?",
+		"Version":"4",
 		"SourceURL":"https://civitai.com/models/2583/grapefruit-hentai-model",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/5528?type=Model&format=SafeTensor",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/9000?type=Model&format=SafeTensor",
 		"Format":"safetensors",
-		"LastUpdated":"20/01/2023",
+		"LastUpdated":"10/02/2023",
 		"Comment":"For hentai.",
 		"CustomVAE":"custom",
 		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/5528?type=VAE&format=Other"
@@ -161,7 +161,7 @@
 		"Format":"ckpt",
 		"LastUpdated":"21/01/2023",
 		"Comment":"For photorealistic images.",
-		"CustomVAE":"none",
+		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	}
 }
