@@ -152,5 +152,16 @@
 		"Comment":"For photorealistic images.",
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
+	},
+	"DucHaitenDreamWorld":{
+		"Enabled":false,
+		"Version":"2.4.1",
+		"SourceURL":"https://civitai.com/models/7039/duchaitendreamworld",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/9462",
+		"Format":"safetensors",
+		"LastUpdated":"17/02/2023",
+		"Comment":"For Anime / 3D Art.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
