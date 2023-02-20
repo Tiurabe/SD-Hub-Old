@@ -163,5 +163,16 @@
 		"Comment":"For Anime / 3D Art.",
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
+	},
+	"ChilloutMix":{
+		"Enabled":false,
+		"Version":"?",
+		"SourceURL":"https://civitai.com/models/6424/chilloutmix",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/11745",
+		"Format":"safetensors",
+		"LastUpdated":"19/02/2023",
+		"Comment":"For photorealistic images.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
