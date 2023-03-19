@@ -185,5 +185,16 @@
 		"Comment":"For photorealistic images.",
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
+	},
+	"DreamShaper":{
+		"Enabled":false,
+		"Version":"4",
+		"SourceURL":"https://civitai.com/models/4384/dreamshaper",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/24365",
+		"Format":"safetensors",
+		"LastUpdated":"19/03/2023",
+		"Comment":"For anime / photorealistic ?.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
