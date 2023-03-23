@@ -196,5 +196,16 @@
 		"Comment":"For anime / photorealistic ?.",
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
+	},
+	"MeinaMix":{
+		"Enabled":false,
+		"Version":"8",
+		"SourceURL":"https://civitai.com/models/7240/meinamix",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/20322",
+		"Format":"safetensors",
+		"LastUpdated":"22/03/2023",
+		"Comment":"For anime / semi-realistic.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
