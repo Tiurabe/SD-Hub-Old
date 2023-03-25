@@ -175,6 +175,17 @@
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
+	"P Diffusion":{
+		"Enabled":false,
+		"Version":"4",
+		"SourceURL":"https://huggingface.co/AstraliteHeart/pony-diffusion-v4",
+		"CheckPointDownloadURL":"https://huggingface.co/AstraliteHeart/pony-diffusion-v4/resolve/main/safetensors/pony_v4.safetensors",
+		"Format":"safetensors",
+		"LastUpdated":"25/03/2023",
+		"Comment":"For anime / 3D?",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
+	},
 	"PerfectWorld":{
 		"Enabled":false,
 		"Version":"2",
