@@ -218,5 +218,16 @@
 		"Comment":"For anime / semi-realistic.",
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
+	},
+	"YesMix":{
+		"Enabled":false,
+		"Version":"1.6 (original)",
+		"SourceURL":"https://civitai.com/models/9139/yesmix",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/25571",
+		"Format":"safetensors",
+		"LastUpdated":"25/03/2023",
+		"Comment":"For anime / semi-realistic. (good)",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	}
 }
