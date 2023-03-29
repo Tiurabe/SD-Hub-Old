@@ -175,7 +175,7 @@
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
-	"P Diffusion":{
+	"P-Diffusion":{
 		"Enabled":false,
 		"Version":"4",
 		"SourceURL":"https://huggingface.co/AstraliteHeart/pony-diffusion-v4",
@@ -230,7 +230,7 @@
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
-	"CarDos Anime":{
+	"CarDos-Anime":{
 		"Enabled":false,
 		"Version":"1.0",
 		"SourceURL":"https://civitai.com/models/25399/cardos-anime",
