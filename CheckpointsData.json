@@ -1,14 +1,14 @@
 {
-	"Anything-v4.5":{
+	"Anything-v5":{
 		"Enabled":false,
-		"Version":"4.5",
-		"SourceURL":"https://huggingface.co/andite/anything-v4.0",
-		"CheckPointDownloadURL":"https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.5-pruned.safetensors",
+		"Version":"5",
+		"SourceURL":"https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/30163",
 		"Format":"safetensors",
-		"LastUpdated":"10/02/2023",
-		"Comment":"Unofficial Anything v3 merge (unofficial but seems to be approved by the original creator). fp32.",
-		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":"https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.0.vae.pt"
+		"LastUpdated":"29/03/2023",
+		"Comment":"Official Anything v5 Model.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	},
 	"Anything-v3.0-Pruned-fp32":{
 		"Enabled":false,
@@ -131,16 +131,16 @@
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	},
-	"grapefruit":{
+	"Hassaku":{
 		"Enabled":false,
-		"Version":"4.1",
+		"Version":"v1",
 		"SourceURL":"https://civitai.com/models/2583/grapefruit-hentai-model",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/16619",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/29539",
 		"Format":"safetensors",
-		"LastUpdated":"11/03/2023",
-		"Comment":"For hentai.",
-		"CustomVAE":"custom",
-		"CustomVAEDownloadURL":"https://civitai.com/api/download/models/5528?type=VAE&format=Other"
+		"LastUpdated":"29/03/2023",
+		"Comment":"For hentai. Formerly known as grapefruit.",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
 	},
 	"Deliberate":{
 		"Enabled":false,
@@ -227,6 +227,17 @@
 		"Format":"safetensors",
 		"LastUpdated":"25/03/2023",
 		"Comment":"For anime / semi-realistic. (good)",
+		"CustomVAE":"default",
+		"CustomVAEDownloadURL":""
+	},
+	"CarDos Anime":{
+		"Enabled":false,
+		"Version":"1.0",
+		"SourceURL":"https://civitai.com/models/25399/cardos-anime",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/30404",
+		"Format":"safetensors",
+		"LastUpdated":"29/03/2023",
+		"Comment":"For anime (good)",
 		"CustomVAE":"default",
 		"CustomVAEDownloadURL":""
 	}
