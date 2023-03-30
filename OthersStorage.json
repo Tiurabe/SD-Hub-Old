@@ -18,5 +18,10 @@
 		"0":"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
 		"1":"Extension",
 		"LastUpdated":"29/03/2023"
+	},
+	"4":{
+		"0":"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_openpose-fp16.safetensors",
+		"1":"ControlNetModel",
+		"LastUpdated":"30/03/2023"
 	}
 }
