@@ -8,5 +8,15 @@
 		"0":"https://huggingface.co/yesyeahvh/bad-hands-5/resolve/main/bad-hands-5.pt",
 		"1":"Embedding",
 		"LastUpdated":"29/03/2023"
+	},
+	"2":{
+		"0":"https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
+		"1":"Extension",
+		"LastUpdated":"29/03/2023"
+	},
+	"3":{
+		"0":"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
+		"1":"Extension",
+		"LastUpdated":"29/03/2023"
 	}
 }
