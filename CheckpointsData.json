@@ -135,7 +135,7 @@
 		"Enabled":false,
 		"Version":"v1",
 		"SourceURL":"https://civitai.com/models/2583/grapefruit-hentai-model",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/29539",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/37521",
 		"Format":"safetensors",
 		"LastUpdated":"29/03/2023",
 		"Comment":"For hentai. Formerly known as grapefruit.",
