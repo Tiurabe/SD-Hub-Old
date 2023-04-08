@@ -36,7 +36,7 @@
 		"Enabled":false,
 		"Version":"1.3",
 		"SourceURL":"https://civitai.com/models/2661/uber-realistic-porn-merge-urpm",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/15640?type=Pruned%20Model&format=SafeTensor",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/15640",
 		"Format":"safetensors",
 		"LastUpdated":"12/03/2023",
 		"Comment":"Does the same as the other one, but much smaller. Use if you are not merging models.",
