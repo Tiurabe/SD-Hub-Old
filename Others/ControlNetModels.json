@@ -1,0 +1,17 @@
+{
+	"0":{
+		"name":"control-openpose-fp16",
+		"url":"https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose_fp16.safetensors",
+		"yaml_url":"https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose_fp16.yaml"
+	},
+	"1":{
+		"name":"control-scribble-fp16",
+		"url":"https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble_fp16.safetensors",
+		"yaml_url":"https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble_fp16.yaml"
+	},
+	"2":{
+		"name":"control-segmentation-fp16",
+		"url":"https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg_fp16.safetensors",
+		"yaml_url":"https://huggingface.co/ckpt/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg_fp16.yaml"
+	}
+}
