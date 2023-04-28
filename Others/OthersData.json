@@ -65,6 +65,14 @@
 			"last_updated":"27/04/2023",
 			"comment":"",
 			"custom_folder":""
+		},
+		"4":{
+			"name":"openpose-editor",
+			"url":"https://github.com/fkunn1326/openpose-editor.git",
+			"type":"Extension",
+			"last_updated":"28/04/2023",
+			"comment":"",
+			"custom_folder":""
 		}
 	},
 	"VAEs":{
