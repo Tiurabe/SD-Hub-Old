@@ -54,6 +54,13 @@
 			"last_updated":"27/04/2023",
 			"comment":"",
 			"custom_folder":"models/LyCORIS/"
+		},
+		"3":{
+			"url":"https://github.com/Mikubill/sd-webui-controlnet.git",
+			"type":"Extension",
+			"last_updated":"27/04/2023",
+			"comment":"",
+			"custom_folder":""
 		}
 	},
 	"VAEs":{
@@ -64,6 +71,18 @@
 			"extension":"vae.pt",
 			"last_updated":"27/04/2023",
 			"comment":""
+		}
+	},
+	"LoRAs":{
+		"0":{
+			"name":"Corruption",
+			"url":"https://civitai.com/api/download/models/38238",
+			"version":"2.1",
+			"source":"https://civitai.com/models/17610/corruption",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"Actually LyCORIS, not LoRA... Testing."
 		}
 	}
 }
