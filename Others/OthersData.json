@@ -35,6 +35,7 @@
 	},
 	"Extensions":{
 		"0":{
+			"name":"a1111-sd-webui-tagcomplete",
 			"url":"https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
 			"type":"Extension",
 			"last_updated":"27/04/2023",
@@ -42,6 +43,7 @@
 			"custom_folder":""
 		},
 		"1":{
+			"name":"stable-diffusion-webui-images-browser",
 			"url":"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
 			"type":"Extension",
 			"last_updated":"27/04/2023",
@@ -49,6 +51,7 @@
 			"custom_folder":""
 		},
 		"2":{
+			"name":"a1111-sd-webui-lycoris",
 			"url":"https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git",
 			"type":"Extension",
 			"last_updated":"27/04/2023",
@@ -56,6 +59,7 @@
 			"custom_folder":"models/LyCORIS/"
 		},
 		"3":{
+			"name":"sd-webui-controlnet",
 			"url":"https://github.com/Mikubill/sd-webui-controlnet.git",
 			"type":"Extension",
 			"last_updated":"27/04/2023",
