@@ -122,7 +122,7 @@
 	},
 	"Hassaku":{
 		"Enabled":false,
-		"Version":"v1",
+		"Version":"v1.1",
 		"SourceURL":"https://civitai.com/models/2583/grapefruit-hentai-model",
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/37521",
 		"Format":"safetensors",
@@ -144,11 +144,11 @@
 	},
 	"DucHaitenDreamWorld":{
 		"Enabled":false,
-		"Version":"2.4.1",
+		"Version":"3",
 		"SourceURL":"https://civitai.com/models/7039/duchaitendreamworld",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/9462",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/30741",
 		"Format":"safetensors",
-		"LastUpdated":"17/02/2023",
+		"LastUpdated":"28/04/2023",
 		"Comment":"For Anime / 3D Art.",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":""
@@ -188,22 +188,22 @@
 	},
 	"DreamShaper":{
 		"Enabled":false,
-		"Version":"4",
+		"Version":"5_pruned",
 		"SourceURL":"https://civitai.com/models/4384/dreamshaper",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/24365",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/44525",
 		"Format":"safetensors",
-		"LastUpdated":"19/03/2023",
+		"LastUpdated":"28/04/2023",
 		"Comment":"For anime / photorealistic ?.",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":""
 	},
 	"MeinaMix":{
 		"Enabled":false,
-		"Version":"8",
+		"Version":"9",
 		"SourceURL":"https://civitai.com/models/7240/meinamix",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/20322",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/46137",
 		"Format":"safetensors",
-		"LastUpdated":"22/03/2023",
+		"LastUpdated":"28/04/2023",
 		"Comment":"For anime / semi-realistic.",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":""
@@ -221,11 +221,11 @@
 	},
 	"CarDos-Anime":{
 		"Enabled":false,
-		"Version":"1.0",
+		"Version":"2.0",
 		"SourceURL":"https://civitai.com/models/25399/cardos-anime",
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/30404",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/43825",
 		"Format":"safetensors",
-		"LastUpdated":"29/03/2023",
+		"LastUpdated":"28/04/2023",
 		"Comment":"For anime (good)",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":""
