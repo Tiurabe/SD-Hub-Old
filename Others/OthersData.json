@@ -31,6 +31,14 @@
 			"type":"Embedding",
 			"last_updated":"27/04/2023",
 			"comment":"Should work nicely with AbyssOrangeMix3 and viewer-mix_v1.7. Untested with other checkpoints."
+		},
+		"4":{
+			"name":"deep-negative",
+			"url":"https://civitai.com/api/download/models/5637",
+			"extension":"pt",
+			"type":"Embedding",
+			"last_updated":"28/04/2023",
+			"comment":"Trigger word: ng_deepnegative_v1_75t"
 		}
 	},
 	"Extensions":{
@@ -51,8 +59,8 @@
 			"custom_folder":""
 		},
 		"2":{
-			"name":"a1111-sd-webui-lycoris",
-			"url":"https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git",
+			"name":"a1111-sd-webui-locon-kaggle",
+			"url":"https://github.com/Tiurabe/a1111-sd-webui-locon-kaggle.git",
 			"type":"Extension",
 			"last_updated":"27/04/2023",
 			"comment":"",
@@ -94,7 +102,67 @@
 			"type":"LoRA",
 			"extension":"safetensors",
 			"last_updated":"28/04/2023",
-			"comment":"Actually LyCORIS, not LoRA... Testing."
+			"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+		},
+		"1":{
+			"name":"asanagi-style-lora",
+			"url":"https://civitai.com/api/download/models/34035",
+			"version":"3",
+			"source":"https://civitai.com/models/5941/asanagi-style-lora",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+		},
+		"2":{
+			"name":"obsidian-skin",
+			"url":"https://civitai.com/api/download/models/22046",
+			"version":"1",
+			"source":"https://civitai.com/models/18584/obsidian-skin",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+		},
+		"3":{
+			"name":"belle-delphine",
+			"url":"https://civitai.com/api/download/models/44242",
+			"version":"1",
+			"source":"https://civitai.com/models/38290/belle-delphine",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"egirl L"
+		},
+		"4":{
+			"name":"hannah-owo",
+			"url":"https://civitai.com/api/download/models/17619",
+			"version":"1",
+			"source":"https://civitai.com/models/14959/hannah-owo",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"egirl L"
+		},
+		"5":{
+			"name":"scared-expression",
+			"url":"https://civitai.com/api/download/models/49924",
+			"version":"1.8",
+			"source":"https://civitai.com/models/42183/scared-expression",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"Trigger words: ['scared expression', 'open mouth', 'clenched teeth']"
+		},
+		"6":{
+			"name":"crazy-expressions",
+			"url":"https://civitai.com/api/download/models/6860",
+			"version":"? (Possibly v1)",
+			"source":"https://civitai.com/models/5891/crazy-expressions",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"last_updated":"28/04/2023",
+			"comment":"Trigger words: ['crazy face', 'crazy eyes', 'crazy smile', 'shocked', 'horrified', 'scared', -]"
 		}
 	}
 }
