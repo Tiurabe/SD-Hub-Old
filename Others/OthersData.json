@@ -97,82 +97,98 @@
 		"0":{
 			"name":"1_Corruption",
 			"url":"https://civitai.com/api/download/models/38238",
-			"version":"2.1",
-			"source":"https://civitai.com/models/17610/corruption",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+			"additional_information":{
+				"source":"https://civitai.com/models/17610/corruption",
+				"version":"2.1",
+				"last_updated":"28/04/2023",
+				"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+			}
 		},
 		"1":{
 			"name":"1_asanagi-style-lora",
 			"url":"https://civitai.com/api/download/models/34035",
-			"version":"3",
-			"source":"https://civitai.com/models/5941/asanagi-style-lora",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+			"additional_information":{
+				"source":"https://civitai.com/models/5941/asanagi-style-lora",
+				"version":"3",
+				"last_updated":"28/04/2023",
+				"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+			}
 		},
 		"2":{
 			"name":"1_obsidian-skin",
 			"url":"https://civitai.com/api/download/models/22046",
-			"version":"1",
-			"source":"https://civitai.com/models/18584/obsidian-skin",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+			"additional_information":{
+				"source":"https://civitai.com/models/18584/obsidian-skin",
+				"version":"1",
+				"last_updated":"28/04/2023",
+				"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs."
+			}
 		},
 		"3":{
 			"name":"1_belle-delphine",
 			"url":"https://civitai.com/api/download/models/44242",
-			"version":"1",
-			"source":"https://civitai.com/models/38290/belle-delphine",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"egirl L"
+			"additional_information":{
+				"source":"https://civitai.com/models/38290/belle-delphine",
+				"version":"1",
+				"last_updated":"28/04/2023",
+				"comment":""
+			}
 		},
 		"4":{
 			"name":"1_hannah-owo",
 			"url":"https://civitai.com/api/download/models/17619",
-			"version":"1",
-			"source":"https://civitai.com/models/14959/hannah-owo",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"egirl L"
+			"additional_information":{
+				"source":"https://civitai.com/models/14959/hannah-owo",
+				"version":"1",
+				"last_updated":"28/04/2023",
+				"comment":""
+			}
 		},
 		"5":{
 			"name":"1_scared-expression",
 			"url":"https://civitai.com/api/download/models/49924",
-			"version":"1.8",
-			"source":"https://civitai.com/models/42183/scared-expression",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"Trigger words: ['scared expression', 'open mouth', 'clenched teeth']"
+			"additional_information":{
+				"source":"https://civitai.com/models/42183/scared-expression",
+				"version":"1.8",
+				"last_updated":"28/04/2023",
+				"comment":"Trigger words: ['scared expression', 'open mouth', 'clenched teeth']"
+			}
 		},
 		"6":{
 			"name":"1_crazy-expressions",
 			"url":"https://civitai.com/api/download/models/6860",
-			"version":"? (Possibly v1)",
-			"source":"https://civitai.com/models/5891/crazy-expressions",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"28/04/2023",
-			"comment":"Trigger words: ['crazy face', 'crazy eyes', 'crazy smile', 'shocked', 'horrified', 'scared', -]"
+			"additional_information":{
+				"source":"https://civitai.com/models/5891/crazy-expressions",
+				"version":"? (Possibly v1)",
+				"last_updated":"28/04/2023",
+				"comment":"Trigger words:['crazy face', 'crazy eyes', 'crazy smile', 'shocked', 'horrified', 'scared', -]"
+			}
 		},
 		"7":{
 			"name":"1_Ankha",
-			"url":"https://civitai.com/models/49840/ankha-animal-crossing",
-			"version":"2",
-			"source":"https://civitai.com/api/download/models/58494",
+			"url":"https://civitai.com/api/download/models/58494",
 			"type":"LoRA",
 			"extension":"safetensors",
-			"last_updated":"03/05/2023",
-			"comment":"Trigger words: ['ankha']"
+			"additional_information":{
+				"source":"https://civitai.com/models/49840/ankha-animal-crossing",
+				"version":"2",
+				"last_updated":"03/05/2023",
+				"comment":"Trigger words: ['ankha']"
+			}
 		}
 	}
 }
