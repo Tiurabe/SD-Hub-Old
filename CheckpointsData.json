@@ -1,5 +1,5 @@
 {
-	"Anything-v5":{
+	"Anything_v5":{
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/30163",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
@@ -23,7 +23,7 @@
 			"comment":""
 		}
 	},
-	"Protogen-v2.2":{
+	"Protogen_v2.2":{
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4007?type=Pruned%20Model&format=SafeTensor&size=pruned&fp=fp16",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
@@ -119,7 +119,7 @@
 			"comment":"anime / semi-realistic"
 		}
 	},
-	"Pony-Diffusion":{
+	"Pony_Diffusion":{
 		"CheckPointDownloadURL":"https://huggingface.co/AstraliteHeart/pony-diffusion-v4/resolve/main/safetensors/pony_v4.safetensors",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
@@ -155,7 +155,7 @@
 			"comment":""
 		}
 	},
-	"CarDos-Anime":{
+	"CarDos_Anime":{
 		"CheckPointDownloadURL":"https://civitai.com/api/download/models/43825?type=Model&format=SafeTensor&size=pruned&fp=fp16",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
@@ -167,7 +167,7 @@
 			"comment":""
 		}
 	},
-	"e621-rising":{
+	"e621_rising":{
 		"CheckPointDownloadURL":"https://huggingface.co/hearmeneigh/sd21-e621-rising-v2/resolve/main/sd21-e621-rising-v2-epoch-29.bf16.safetensors",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
