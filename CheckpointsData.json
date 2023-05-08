@@ -60,14 +60,14 @@
 		}
 	},
 	"MeinaHentai":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/26033",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/64046",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":"",
 		"additional_information":{
 			"checkpoint_source":"https://civitai.com/models/12606/meinahentai",
-			"current_version":"2.1",
-			"last_checked_for_updates":"01/05/2023",
+			"current_version":"3",
+			"last_checked_for_updates":"07/05/2023",
 			"comment":""
 		}
 	},
@@ -108,14 +108,14 @@
 		}
 	},
 	"GhostMix":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/59685",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/64503",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":"",
 		"additional_information":{
 			"checkpoint_source":"https://civitai.com/models/36520/ghostmix",
-			"current_version":"1.2",
-			"last_checked_for_updates":"01/05/2023",
+			"current_version":"1.2_BakedVAE",
+			"last_checked_for_updates":"07/05/2023",
 			"comment":"anime / semi-realistic"
 		}
 	},
@@ -177,6 +177,30 @@
 			"current_version":"2",
 			"last_checked_for_updates":"01/05/2023",
 			"comment":""
+		}
+	},
+	"BreakDomain":{
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/61940",
+		"Format":"safetensors",
+		"CustomVAEDownloadURL":"",
+		"CustomYamlDownloadUrl":"",
+		"additional_information":{
+			"checkpoint_source":"https://civitai.com/models/50520",
+			"current_version":"_m2000",
+			"last_checked_for_updates":"07/05/2023",
+			"comment":""
+		}
+	},
+	"DivineEleganceMix":{
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/48473",
+		"Format":"safetensors",
+		"CustomVAEDownloadURL":"",
+		"CustomYamlDownloadUrl":"",
+		"additional_information":{
+			"checkpoint_source":"https://civitai.com/models/6174",
+			"current_version":"5",
+			"last_checked_for_updates":"07/05/2023",
+			"comment":"for anime/semi-realistic"
 		}
 	}
 }
