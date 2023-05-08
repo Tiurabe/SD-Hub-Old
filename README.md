@@ -1,5 +1,3 @@
 # SD-Hub
 
-Currently, this is meant for private usage. 
-
-Under rewrite.
+This is meant for private usage, move along!
