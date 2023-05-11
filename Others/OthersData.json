@@ -189,6 +189,18 @@
 				"last_updated":"03/05/2023",
 				"comment":"Trigger words: ['ankha']"
 			}
+		},
+		"8":{
+			"name":"1_Ahegao",
+			"url":"https://civitai.com/api/download/models/47240",
+			"type":"LoRA",
+			"extension":"safetensors",
+			"additional_information":{
+				"source":"https://civitai.com/models/42558/ahegao",
+				"version":"1.1",
+				"last_updated":"11/05/2023",
+				"comment":"Trigger words: ['ahegao']"
+			}
 		}
 	}
 }
