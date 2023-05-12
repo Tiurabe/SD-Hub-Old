@@ -32,6 +32,7 @@ class Process:
                             print(f"\r{stripped_line}", end='')
                         else:
                             print(line, end="")
+                            print("im here!")
         except (OSError, ValueError, subprocess.CalledProcessError, re.error) as e:
             print(f"Error running command: {e}")
             self.status = "Error"
