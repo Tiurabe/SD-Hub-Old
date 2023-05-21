@@ -1,206 +1,206 @@
 {
-	"Anything_v5":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/30163",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original",
-			"current_version":"5",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"Official Anything v5 Model."
-		}
-	},
-	"UberRealisticPornMerge":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/15640",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/2661/uber-realistic-porn-merge-urpm",
-			"current_version":"1.3",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":""
-		}
-	},
-	"Protogen_v2.2":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4007?type=Pruned%20Model&format=SafeTensor&size=pruned&fp=fp16",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/3627/protogen-v22-anime-official-release",
-			"current_version":"2.2",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"good for anime/photorealistic images"
-		}
-	},
-	"HassanBlend":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/4635?type=Pruned%20Model&format=SafeTensor&size=pruned&fp=fp16",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/1173/hassanblend-15-and-previous-versions",
-			"current_version":"1.5.1.2",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"for porn"
-		}
-	},
-	"Hassaku":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/37521",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/2583/grapefruit-hentai-model",
-			"current_version":"1.1",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"For hentai. Formerly known as grapefruit."
-		}
-	},
-	"MeinaHentai":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/64046",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/12606/meinahentai",
-			"current_version":"3",
-			"last_checked_for_updates":"07/05/2023",
-			"comment":""
-		}
-	},
-	"MeinaMix":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/46137",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/7240/meinamix",
-			"current_version":"9",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"for anime/semi-realistic"
-		}
-	},
-	"Counterfeit":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/57618",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/4468/counterfeit-v30",
-			"current_version":"3.0",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"for anime"
-		}
-	},
-	"ChikMix":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/59409",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/9871/chikmix",
-			"current_version":"3",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"for photorealistic images"
-		}
-	},
-	"GhostMix":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/76907",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/36520/ghostmix",
-			"current_version":"2.0_BakedVAE",
-			"last_checked_for_updates":"21/05/2023",
-			"comment":"anime / semi-realistic"
-		}
-	},
-	"Pony_Diffusion":{
-		"CheckPointDownloadURL":"https://huggingface.co/AstraliteHeart/pony-diffusion-v4/resolve/main/safetensors/pony_v4.safetensors",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://huggingface.co/AstraliteHeart/pony-diffusion-v4/",
-			"current_version":"4",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":""
-		}
-	},
-	"DucHaitenAIart":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/50724",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/3079/duchaitenaiart",
-			"current_version":"4.5.3",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":"for anime / semi-realistic"
-		}
-	},
-	"AbyssOrangeMix3":{
-		"CheckPointDownloadURL":"https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://huggingface.co/WarriorMama777/OrangeMixs",
-			"current_version":"AOM3A1B",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":""
-		}
-	},
-	"CarDos_Anime":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/43825?type=Model&format=SafeTensor&size=pruned&fp=fp16",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/25399/cardos-anime",
-			"current_version":"2",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":""
-		}
-	},
-	"e621_rising":{
-		"CheckPointDownloadURL":"https://huggingface.co/hearmeneigh/sd21-e621-rising-v2/resolve/main/sd21-e621-rising-v2-epoch-29.bf16.safetensors",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"https://huggingface.co/hearmeneigh/sd21-e621-rising-v2/resolve/main/sd21-e621-rising-v2-epoch-29.bf16.yaml",
-		"additional_information":{
-			"checkpoint_source":"https://huggingface.co/hearmeneigh/sd21-e621-rising-v2",
-			"current_version":"2",
-			"last_checked_for_updates":"01/05/2023",
-			"comment":""
-		}
-	},
-	"BreakDomain":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/61940",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/50520",
-			"current_version":"_m2000",
-			"last_checked_for_updates":"07/05/2023",
-			"comment":""
-		}
-	},
-	"DivineEleganceMix":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/48473",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/models/6174",
-			"current_version":"5",
-			"last_checked_for_updates":"07/05/2023",
-			"comment":"for anime/semi-realistic"
-		}
-	},
+    "Anything_v5": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/30163",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original",
+            "current_version": "5",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "Official Anything v5 Model."
+        }
+    },
+    "UberRealisticPornMerge": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/15640",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/2661/uber-realistic-porn-merge-urpm",
+            "current_version": "1.3",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": ""
+        }
+    },
+    "Protogen_v2.2": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/4007?type=Pruned%20Model&format=SafeTensor&size=pruned&fp=fp16",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/3627/protogen-v22-anime-official-release",
+            "current_version": "2.2",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "good for anime/photorealistic images"
+        }
+    },
+    "HassanBlend": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/4635?type=Pruned%20Model&format=SafeTensor&size=pruned&fp=fp16",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/1173/hassanblend-15-and-previous-versions",
+            "current_version": "1.5.1.2",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "for porn"
+        }
+    },
+    "Hassaku": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/37521",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/2583/grapefruit-hentai-model",
+            "current_version": "1.1",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "For hentai. Formerly known as grapefruit."
+        }
+    },
+    "MeinaHentai": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/64046",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/12606/meinahentai",
+            "current_version": "3",
+            "last_checked_for_updates": "07/05/2023",
+            "comment": ""
+        }
+    },
+    "MeinaMix": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/46137",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/7240/meinamix",
+            "current_version": "9",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "for anime/semi-realistic"
+        }
+    },
+    "Counterfeit": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/57618",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/4468/counterfeit-v30",
+            "current_version": "3.0",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "for anime"
+        }
+    },
+    "ChikMix": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/59409",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/9871/chikmix",
+            "current_version": "3",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "for photorealistic images"
+        }
+    },
+    "GhostMix": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/76907",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/36520/ghostmix",
+            "current_version": "2.0_BakedVAE",
+            "last_checked_for_updates": "21/05/2023",
+            "comment": "anime / semi-realistic"
+        }
+    },
+    "Pony_Diffusion": {
+        "CheckPointDownloadURL": "https://huggingface.co/AstraliteHeart/pony-diffusion-v4/resolve/main/safetensors/pony_v4.safetensors",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://huggingface.co/AstraliteHeart/pony-diffusion-v4/",
+            "current_version": "4",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": ""
+        }
+    },
+    "DucHaitenAIart": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/50724",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/3079/duchaitenaiart",
+            "current_version": "4.5.3",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": "for anime / semi-realistic"
+        }
+    },
+    "AbyssOrangeMix3": {
+        "CheckPointDownloadURL": "https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://huggingface.co/WarriorMama777/OrangeMixs",
+            "current_version": "AOM3A1B",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": ""
+        }
+    },
+    "CarDos_Anime": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/43825?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/25399/cardos-anime",
+            "current_version": "2",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": ""
+        }
+    },
+    "e621_rising": {
+        "CheckPointDownloadURL": "https://huggingface.co/hearmeneigh/sd21-e621-rising-v2/resolve/main/sd21-e621-rising-v2-epoch-29.bf16.safetensors",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "https://huggingface.co/hearmeneigh/sd21-e621-rising-v2/resolve/main/sd21-e621-rising-v2-epoch-29.bf16.yaml",
+        "additional_information": {
+            "checkpoint_source": "https://huggingface.co/hearmeneigh/sd21-e621-rising-v2",
+            "current_version": "2",
+            "last_checked_for_updates": "01/05/2023",
+            "comment": ""
+        }
+    },
+    "BreakDomain": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/61940",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/50520",
+            "current_version": "_m2000",
+            "last_checked_for_updates": "07/05/2023",
+            "comment": ""
+        }
+    },
+    "DivineEleganceMix": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/48473",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/6174",
+            "current_version": "5",
+            "last_checked_for_updates": "07/05/2023",
+            "comment": "for anime/semi-realistic"
+        }
+    }
 }
