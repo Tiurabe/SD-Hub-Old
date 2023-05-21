@@ -108,14 +108,14 @@
 		}
 	},
 	"GhostMix":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/64503",
+		"CheckPointDownloadURL":"https://civitai.com/api/download/models/76907",
 		"Format":"safetensors",
 		"CustomVAEDownloadURL":"",
 		"CustomYamlDownloadUrl":"",
 		"additional_information":{
 			"checkpoint_source":"https://civitai.com/models/36520/ghostmix",
-			"current_version":"1.2_BakedVAE",
-			"last_checked_for_updates":"07/05/2023",
+			"current_version":"2.0_BakedVAE",
+			"last_checked_for_updates":"21/05/2023",
 			"comment":"anime / semi-realistic"
 		}
 	},
@@ -203,16 +203,4 @@
 			"comment":"for anime/semi-realistic"
 		}
 	},
-	"MEGA_MODEL":{
-		"CheckPointDownloadURL":"https://civitai.com/api/download/models/66207?type=Model&format=SafeTensor&size=full&fp=fp32",
-		"Format":"safetensors",
-		"CustomVAEDownloadURL":"",
-		"CustomYamlDownloadUrl":"https://civitai.com/api/download/models/66207?type=Config&format=Other",
-		"additional_information":{
-			"checkpoint_source":"https://civitai.com/api/download/models/66207?type=Config&format=Other",
-			"current_version":"3.8",
-			"last_checked_for_updates":"16/05/2023",
-			"comment":"Huge model (14.2GB. Make sure you got enough space."
-		}
-	}
 }
