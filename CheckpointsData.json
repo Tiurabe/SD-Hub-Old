@@ -11,6 +11,18 @@
             "comment": "Official Anything v5 Model."
         }
     },
+    "WaifuDiffusion": {
+        "CheckPointDownloadURL": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3/resolve/main/wd-illusion-fp16.safetensors",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/vae/kl-f8-anime2.ckpt",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original",
+            "current_version": "1.5 beta3",
+            "last_checked_for_updates": "28/05/2023",
+            "comment": ""
+        }
+    },
     "UberRealisticPornMerge": {
         "CheckPointDownloadURL": "https://civitai.com/api/download/models/15640",
         "Format": "safetensors",
