@@ -1,218 +1,232 @@
 {
-	"Embeddings":{
-		"0":{
-			"name":"EasyNegative",
-			"url":"https://huggingface.co/datasets/gsdf/EasyNegative/resolve/main/EasyNegative.safetensors",
-			"extension":"safetensors",
-			"type":"Embedding",
-			"last_updated":"27/04/2023",
-			"comment":""
-		},
-		"1":{
-			"name":"bad-hands-5",
-			"url":"https://huggingface.co/yesyeahvh/bad-hands-5/resolve/main/bad-hands-5.pt",
-			"extension":"pt",
-			"type":"Embedding",
-			"last_updated":"27/04/2023",
-			"comment":""
-		},
-		"2":{
-			"name":"bad-artist",
-			"url":"https://huggingface.co/nick-x-hacker/bad-artist/resolve/main/bad-artist.pt",
-			"extension":"pt",
-			"type":"Embedding",
-			"last_updated":"27/04/2023",
-			"comment":"Usage examples: 'sketch by bad-artist'||'painting by bad-artist'||'photograph by bad-artist'"
-		},
-		"3":{
-			"name":"veryBadImageNegative_v1.3",
-			"url":"https://civitai.com/api/download/models/25820",
-			"extension":"pt",
-			"type":"Embedding",
-			"last_updated":"27/04/2023",
-			"comment":"Should work nicely with AbyssOrangeMix3 and viewer-mix_v1.7. Untested with other checkpoints."
-		},
-		"4":{
-			"name":"deep-negative",
-			"url":"https://civitai.com/api/download/models/5637",
-			"extension":"pt",
-			"type":"Embedding",
-			"last_updated":"28/04/2023",
-			"comment":"Trigger word: ng_deepnegative_v1_75t"
-		}
-	},
-	"Extensions":{
-		"0":{
-			"name":"a1111-sd-webui-tagcomplete",
-			"url":"https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
-			"type":"Extension",
-			"last_updated":"27/04/2023",
-			"comment":"",
-			"custom_folder":""
-		},
-		"1":{
-			"name":"stable-diffusion-webui-images-browser",
-			"url":"https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
-			"type":"Extension",
-			"last_updated":"27/04/2023",
-			"comment":"",
-			"custom_folder":""
-		},
-		"2":{
-			"name":"a1111-sd-webui-locon-kaggle",
-			"url":"https://github.com/Tiurabe/a1111-sd-webui-locon-kaggle.git",
-			"type":"Extension",
-			"last_updated":"27/04/2023",
-			"comment":"",
-			"custom_folder":"models/LyCORIS/"
-		},
-		"3":{
-			"name":"sd-webui-controlnet",
-			"url":"https://github.com/Mikubill/sd-webui-controlnet.git",
-			"type":"Extension",
-			"last_updated":"27/04/2023",
-			"comment":"",
-			"custom_folder":""
-		},
-		"4":{
-			"name":"openpose-editor",
-			"url":"https://github.com/fkunn1326/openpose-editor.git",
-			"type":"Extension",
-			"last_updated":"28/04/2023",
-			"comment":"",
-			"custom_folder":""
-		},
-		"5":{
-			"name":"additional-networks",
-			"url":"https://github.com/kohya-ss/sd-webui-additional-networks.git",
-			"type":"Extension",
-			"last_updated":"13/05/2023",
-			"comment":"",
-			"custom_folder":""
-		}
-	},
-	"VAEs":{
-		"0":{
-			"name":"blessed2",
-			"url":"https://huggingface.co/NoCrypt/blessed_vae/resolve/main/blessed2.vae.pt",
-			"type":"VAE",
-			"extension":"vae.pt",
-			"last_updated":"27/04/2023",
-			"comment":""
-		}
-	},
-	"LoRAs":{
-		"0":{
-			"name":"1_Corruption",
-			"url":"https://civitai.com/api/download/models/38238",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/17610/corruption",
-				"creator":"Gavin22",
-				"version":"2.1",
-				"last_updated":"28/04/2023",
-				"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs.",
-				"trigger_words":"corruption, empty eyes, half-closed eyes, evil smile, no pupils, evil grin, combatant, dark magical girl, layered skirt, showgirl skirt"
-			}
-		},
-		"1":{
-			"name":"1_asanagi-style-lora",
-			"url":"https://civitai.com/api/download/models/34035",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/5941/asanagi-style-lora",
-				"creator":"Mocho",
-				"version":"3",
-				"last_updated":"28/04/2023",
-				"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs.",
-				"trigger_words":""
-			}
-		},
-		"2":{
-			"name":"1_obsidian-skin",
-			"url":"https://civitai.com/api/download/models/22046",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/18584/obsidian-skin",
-				"creator":"MAIdragora",
-				"version":"1",
-				"last_updated":"28/04/2023",
-				"comment":"Actually LyCORIS, not LoRA, but stays in the same folder as LORAs.",
-				"trigger_words":"blackskin"
-			}
-		},
-		"3":{
-			"name":"1_scared-expression",
-			"url":"https://civitai.com/api/download/models/49924",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/42183/scared-expression",
-				"creator":"WindFlare",
-				"version":"1.8",
-				"last_updated":"28/04/2023",
-				"comment":"Trigger words: ['scared expression', 'open mouth', 'clenched teeth']",
-				"trigger_words":"scared expression, open mouth, clenched teeth"
-			}
-		},
-		"4":{
-			"name":"1_crazy-expressions",
-			"url":"https://civitai.com/api/download/models/6860",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/5891/crazy-expressions",
-				"creator":"Annawn",
-				"version":"? (Possibly v1)",
-				"last_updated":"28/04/2023",
-				"comment":"",
-				"trigger_words":"crazy face, crazy eyes, crazy smile, shocked, horrified, scared, small pupils, constricted pupils"
-			}
-		},
-		"5":{
-			"name":"1_Ahegao",
-			"url":"https://civitai.com/api/download/models/47240",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/42558/ahegao",
-				"creator":"ALKHEM",
-				"version":"1.1",
-				"last_updated":"11/05/2023",
-				"comment":"",
-				"trigger_words":"ahegao"
-			}
-		},
-		"6":{
-			"name":"1_HugeBreastsForShortStature",
-			"url":"https://civitai.com/api/download/models/67592",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://civitai.com/models/62379",
-				"creator":"ALKHEM",
-				"version":"3",
-				"last_updated":"14/05/2023",
-				"comment":"this is a lycoris",
-				"trigger_words":"huge breasts"
-			}
-		},
-		"7":{
-			"name":"1_BluetheboneEsthetic",
-			"url":"https://huggingface.co/Anon05/stuff/resolve/main/bluethebone2.1R.safetensors",
-			"type":"LoRA",
-			"extension":"safetensors",
-			"additional_information":{
-				"source":"https://kemono.party/patreon/user/89027767/post/80702849",
-				"creator":"OneRing",
-				"version":"2.1R",
-				"last_updated":"16/05/2023",
-				"comment":"",
-				"trigger_words":"1980s \\(style\\), bluethebone"
-			}
-		}
-	}
+    "Embeddings": {
+        "0": {
+            "name": "EasyNegative",
+            "url": "https://huggingface.co/datasets/gsdf/EasyNegative/resolve/main/EasyNegative.safetensors",
+            "extension": "safetensors",
+            "type": "Embedding",
+            "last_updated": "27/04/2023",
+            "comment": ""
+        },
+        "1": {
+            "name": "bad-hands-5",
+            "url": "https://huggingface.co/yesyeahvh/bad-hands-5/resolve/main/bad-hands-5.pt",
+            "extension": "pt",
+            "type": "Embedding",
+            "last_updated": "27/04/2023",
+            "comment": ""
+        },
+        "2": {
+            "name": "bad-artist",
+            "url": "https://huggingface.co/nick-x-hacker/bad-artist/resolve/main/bad-artist.pt",
+            "extension": "pt",
+            "type": "Embedding",
+            "last_updated": "27/04/2023",
+            "comment": "Usage examples: 'sketch by bad-artist'||'painting by bad-artist'||'photograph by bad-artist'"
+        },
+        "3": {
+            "name": "veryBadImageNegative_v1.3",
+            "url": "https://civitai.com/api/download/models/25820",
+            "extension": "pt",
+            "type": "Embedding",
+            "last_updated": "27/04/2023",
+            "comment": "Should work nicely with AbyssOrangeMix3 and viewer-mix_v1.7. Untested with other checkpoints."
+        },
+        "4": {
+            "name": "deep-negative",
+            "url": "https://civitai.com/api/download/models/5637",
+            "extension": "pt",
+            "type": "Embedding",
+            "last_updated": "28/04/2023",
+            "comment": "Trigger word: ng_deepnegative_v1_75t"
+        }
+    },
+    "Extensions": {
+        "0": {
+            "name": "a1111-sd-webui-tagcomplete",
+            "url": "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git",
+            "type": "Extension",
+            "last_updated": "27/04/2023",
+            "comment": "",
+            "custom_folder": ""
+        },
+        "1": {
+            "name": "stable-diffusion-webui-images-browser",
+            "url": "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git",
+            "type": "Extension",
+            "last_updated": "27/04/2023",
+            "comment": "",
+            "custom_folder": ""
+        },
+        "2": {
+            "name": "a1111-sd-webui-locon-kaggle",
+            "url": "https://github.com/Tiurabe/a1111-sd-webui-locon-kaggle.git",
+            "type": "Extension",
+            "last_updated": "27/04/2023",
+            "comment": "",
+            "custom_folder": "models/LyCORIS/"
+        },
+        "3": {
+            "name": "sd-webui-controlnet",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet.git",
+            "type": "Extension",
+            "last_updated": "27/04/2023",
+            "comment": "",
+            "custom_folder": ""
+        },
+        "4": {
+            "name": "openpose-editor",
+            "url": "https://github.com/fkunn1326/openpose-editor.git",
+            "type": "Extension",
+            "last_updated": "28/04/2023",
+            "comment": "",
+            "custom_folder": ""
+        },
+        "5": {
+            "name": "additional-networks",
+            "url": "https://github.com/kohya-ss/sd-webui-additional-networks.git",
+            "type": "Extension",
+            "last_updated": "13/05/2023",
+            "comment": "",
+            "custom_folder": ""
+        }
+    },
+    "VAEs": {
+        "0": {
+            "name": "blessed2",
+            "url": "https://huggingface.co/NoCrypt/blessed_vae/resolve/main/blessed2.vae.pt",
+            "type": "VAE",
+            "extension": "vae.pt",
+            "last_updated": "27/04/2023",
+            "comment": ""
+        }
+    },
+    "LoRAs": {
+        "0": {
+            "name": "1_Corruption",
+            "url": "https://civitai.com/api/download/models/38238",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/17610/corruption",
+                "creator": "Gavin22",
+                "version": "2.1",
+                "last_updated": "28/04/2023",
+                "comment": "Actually LyCORIS, not LoRA, but stays in the same folder as LORAs.",
+                "trigger_words": "corruption, empty eyes, half-closed eyes, evil smile, no pupils, evil grin, combatant, dark magical girl, layered skirt, showgirl skirt"
+            }
+        },
+        "1": {
+            "name": "1_asanagi-style-lora",
+            "url": "https://civitai.com/api/download/models/34035",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/5941/asanagi-style-lora",
+                "creator": "Mocho",
+                "version": "3",
+                "last_updated": "28/04/2023",
+                "comment": "Actually LyCORIS, not LoRA, but stays in the same folder as LORAs.",
+                "trigger_words": ""
+            }
+        },
+        "2": {
+            "name": "1_obsidian-skin",
+            "url": "https://civitai.com/api/download/models/22046",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/18584/obsidian-skin",
+                "creator": "MAIdragora",
+                "version": "1",
+                "last_updated": "28/04/2023",
+                "comment": "Actually LyCORIS, not LoRA, but stays in the same folder as LORAs.",
+                "trigger_words": "blackskin"
+            }
+        },
+        "3": {
+            "name": "1_scared-expression",
+            "url": "https://civitai.com/api/download/models/49924",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/42183/scared-expression",
+                "creator": "WindFlare",
+                "version": "1.8",
+                "last_updated": "28/04/2023",
+                "comment": "Trigger words: ['scared expression', 'open mouth', 'clenched teeth']",
+                "trigger_words": "scared expression, open mouth, clenched teeth"
+            }
+        },
+        "4": {
+            "name": "1_crazy-expressions",
+            "url": "https://civitai.com/api/download/models/6860",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/5891/crazy-expressions",
+                "creator": "Annawn",
+                "version": "? (Possibly v1)",
+                "last_updated": "28/04/2023",
+                "comment": "",
+                "trigger_words": "crazy face, crazy eyes, crazy smile, shocked, horrified, scared, small pupils, constricted pupils"
+            }
+        },
+        "5": {
+            "name": "1_Ahegao",
+            "url": "https://civitai.com/api/download/models/47240",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/42558/ahegao",
+                "creator": "ALKHEM",
+                "version": "1.1",
+                "last_updated": "11/05/2023",
+                "comment": "",
+                "trigger_words": "ahegao"
+            }
+        },
+        "6": {
+            "name": "1_HugeBreastsForShortStature",
+            "url": "https://civitai.com/api/download/models/67592",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/62379",
+                "creator": "ALKHEM",
+                "version": "3",
+                "last_updated": "14/05/2023",
+                "comment": "this is a lycoris",
+                "trigger_words": "huge breasts"
+            }
+        },
+        "7": {
+            "name": "1_BluetheboneEsthetic",
+            "url": "https://huggingface.co/Anon05/stuff/resolve/main/bluethebone2.1R.safetensors",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://kemono.party/patreon/user/89027767/post/80702849",
+                "creator": "OneRing",
+                "version": "2.1R",
+                "last_updated": "16/05/2023",
+                "comment": "",
+                "trigger_words": "1980s \\(style\\), bluethebone"
+            }
+        },
+        "8": {
+            "name": "1_WaifuSS",
+            "url": "https://huggingface.co/Anon05/stuff/resolve/main/Waifu-SS_v1.safetensors",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://huggingface.co/Anon05/stuff",
+                "creator": "?",
+                "version": "1",
+                "last_updated": "28/05/2023",
+                "comment": "I really don't know where this is from, or who made it.",
+                "trigger_words": "black military uniform, black military hat, swastika armband"
+            }
+        }
+    }
 }
