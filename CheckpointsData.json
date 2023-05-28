@@ -202,5 +202,17 @@
             "last_checked_for_updates": "07/05/2023",
             "comment": "for anime/semi-realistic"
         }
+    },
+    "PerfectWorld": {
+        "CheckPointDownloadURL": "https://civitai.com/models/8281/perfect-world",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/api/download/models/77276",
+            "current_version": "4",
+            "last_checked_for_updates": "28/05/2023",
+            "comment": "for 3d/semi-realistic  (good)"
+        }
     }
 }
