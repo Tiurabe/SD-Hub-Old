@@ -48,14 +48,14 @@
         }
     },
     "Hassaku": {
-        "CheckPointDownloadURL": "https://civitai.com/api/download/models/37521",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/62528",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
             "checkpoint_source": "https://civitai.com/models/2583/grapefruit-hentai-model",
-            "current_version": "1.1",
-            "last_checked_for_updates": "01/05/2023",
+            "current_version": "1.2",
+            "last_checked_for_updates": "28/05/2023",
             "comment": "For hentai. Formerly known as grapefruit."
         }
     },
@@ -72,14 +72,14 @@
         }
     },
     "MeinaMix": {
-        "CheckPointDownloadURL": "https://civitai.com/api/download/models/46137",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/80511",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
             "checkpoint_source": "https://civitai.com/models/7240/meinamix",
-            "current_version": "9",
-            "last_checked_for_updates": "01/05/2023",
+            "current_version": "10",
+            "last_checked_for_updates": "28/05/2023",
             "comment": "for anime/semi-realistic"
         }
     },
@@ -180,14 +180,14 @@
         }
     },
     "BreakDomain": {
-        "CheckPointDownloadURL": "https://civitai.com/api/download/models/61940",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/70969",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
             "checkpoint_source": "https://civitai.com/models/50520",
-            "current_version": "_m2000",
-            "last_checked_for_updates": "07/05/2023",
+            "current_version": "_m2150",
+            "last_checked_for_updates": "28/05/2023",
             "comment": ""
         }
     },
