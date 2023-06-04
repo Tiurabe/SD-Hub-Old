@@ -227,6 +227,20 @@
                 "comment": "I really don't know where this is from, or who made it.",
                 "trigger_words": "black military uniform, black military hat, swastika armband"
             }
+        },
+        "9": {
+            "name": "1_FitGirl",
+            "url": "https://civitai.com/api/download/models/67417",
+            "type": "LoRA",
+            "extension": "safetensors",
+            "additional_information": {
+                "source": "https://civitai.com/models/23234/muscle-girl-or-fit-girl-update",
+                "creator": "Hatch",
+                "version": "Fit girl LyCORIS",
+                "last_updated": "04/06/2023",
+                "comment": "",
+                "trigger_words": "fit, ripped, ab lines, abs, navel"
+            }
         }
     }
 }
