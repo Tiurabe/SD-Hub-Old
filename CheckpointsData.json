@@ -17,7 +17,7 @@
         "CustomVAEDownloadURL": "https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/vae/kl-f8-anime2.ckpt",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
-            "checkpoint_source": "https://civitai.com/models/9409/anything-v5-or-anything-diffusion-original",
+            "checkpoint_source": "https://huggingface.co/waifu-diffusion/wd-1-5-beta3",
             "current_version": "1.5 beta3",
             "last_checked_for_updates": "28/05/2023",
             "comment": ""
@@ -60,38 +60,38 @@
         }
     },
     "Hassaku": {
-        "CheckPointDownloadURL": "https://civitai.com/api/download/models/62528",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/106922",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
             "checkpoint_source": "https://civitai.com/models/2583/grapefruit-hentai-model",
-            "current_version": "1.2",
-            "last_checked_for_updates": "28/05/2023",
+            "current_version": "1.3",
+            "last_checked_for_updates": "18/07/2023",
             "comment": "For hentai. Formerly known as grapefruit."
         }
     },
     "MeinaHentai": {
-        "CheckPointDownloadURL": "https://civitai.com/api/download/models/64046",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/100675",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
             "checkpoint_source": "https://civitai.com/models/12606/meinahentai",
             "current_version": "3",
-            "last_checked_for_updates": "07/05/2023",
+            "last_checked_for_updates": "18/07/2023",
             "comment": ""
         }
     },
     "MeinaMix": {
-        "CheckPointDownloadURL": "https://civitai.com/api/download/models/80511",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/119057",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
             "checkpoint_source": "https://civitai.com/models/7240/meinamix",
-            "current_version": "10",
-            "last_checked_for_updates": "28/05/2023",
+            "current_version": "11",
+            "last_checked_for_updates": "18/07/2023",
             "comment": "for anime/semi-realistic"
         }
     },
@@ -137,9 +137,9 @@
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
-            "checkpoint_source": "https://huggingface.co/AstraliteHeart/pony-diffusion-v4/",
-            "current_version": "4",
-            "last_checked_for_updates": "01/05/2023",
+            "checkpoint_source": "https://civitai.com/models/95367/pony-diffusion-v5",
+            "current_version": "5",
+            "last_checked_for_updates": "18/07/2023",
             "comment": ""
         }
     },
@@ -188,7 +188,7 @@
             "checkpoint_source": "https://huggingface.co/hearmeneigh/sd21-e621-rising-v2",
             "current_version": "2",
             "last_checked_for_updates": "01/05/2023",
-            "comment": ""
+            "comment": "sd 2.1 checkpoint"
         }
     },
     "BreakDomain": {
@@ -225,6 +225,30 @@
             "current_version": "4",
             "last_checked_for_updates": "28/05/2023",
             "comment": "for 3d/semi-realistic  (good)"
+        }
+    },
+    "DreamShaper": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/109123",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/4384/dreamshaper",
+            "current_version": "7",
+            "last_checked_for_updates": "18/07/2023",
+            "comment": "for 3d/realistic"
+        }
+    },
+    "ToonYou": {
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/102996",
+        "Format": "safetensors",
+        "CustomVAEDownloadURL": "",
+        "CustomYamlDownloadUrl": "",
+        "additional_information": {
+            "checkpoint_source": "https://civitai.com/models/30240/toonyou",
+            "current_version": "Beta_5",
+            "last_checked_for_updates": "18/07/2023",
+            "comment": "for anime"
         }
     }
 }
