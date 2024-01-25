@@ -132,14 +132,14 @@
         }
     },
     "Pony_Diffusion": {
-        "CheckPointDownloadURL": "https://huggingface.co/AstraliteHeart/pony-diffusion-v4/resolve/main/safetensors/pony_v4.safetensors",
+        "CheckPointDownloadURL": "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16",
         "Format": "safetensors",
         "CustomVAEDownloadURL": "",
         "CustomYamlDownloadUrl": "",
         "additional_information": {
-            "checkpoint_source": "https://civitai.com/models/95367/pony-diffusion-v5",
-            "current_version": "5",
-            "last_checked_for_updates": "18/07/2023",
+            "checkpoint_source": "https://civitai.com/models/257749",
+            "current_version": "6",
+            "last_checked_for_updates": "24/01/2024",
             "comment": ""
         }
     },
