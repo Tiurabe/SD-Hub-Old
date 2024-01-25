@@ -89,7 +89,15 @@
             "last_updated": "13/05/2023",
             "comment": "",
             "custom_folder": ""
-        }
+        },
+        "6": {
+            "name": "a1111-sd-ei",
+            "url": "https://github.com/Echoflare/a1111-sd-encrypt-image.git",
+            "type": "Extension",
+            "last_updated": "24/01/2024",
+            "comment": "",
+            "custom_folder": ""
+        },
     },
     "VAEs": {
         "0": {
