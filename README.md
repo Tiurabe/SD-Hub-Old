@@ -1,3 +1,3 @@
 # SD-Hub
 
-This is meant for private usage, move along!
+This is the old repo. Things here are deprecated and no longer used.
